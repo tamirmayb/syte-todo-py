@@ -1,6 +1,6 @@
 # Syte TODO list
 A Simple Python3 TODO manager (task list).
-###Author: Tamir Mayblat
+###### Author: Tamir Mayblat
 
 ## Requirements
 - Python 3.3 or above
